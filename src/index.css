@@ -1,0 +1,36 @@
+.red{
+
+  
+  background-color:rgb(243, 75, 75);
+  
+  padding: 25px ;
+}
+.yellow-area{
+
+  padding: 25px ;
+  background-color: rgb(243, 243, 51);
+
+  
+
+    
+    
+}
+.green-area{
+
+
+  padding: 25px ;
+  background-color: rgb(57, 214, 57);
+}
+.blue-area{
+  
+  padding: 25px ;
+  background-color: rgb(34, 150, 196);
+
+
+}
+h2{
+  text-align: center;
+}
+.btn{
+  text-align: center;
+}
